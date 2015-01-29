@@ -7,3 +7,5 @@ categories: lean
 ---
 
 This is the first draft of a post for the dialing in lean blog.
+
+This is an addition - we'll edit this out...
