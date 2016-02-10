@@ -6,4 +6,4 @@ summary:    An Overview and Outline of Dialing in Lean
 categories: lean
 ---
 
-This is the first draft of a post for the dialing in lean blog.
+This is the first draft of a *post* for the _dialing_ in lean blog.
